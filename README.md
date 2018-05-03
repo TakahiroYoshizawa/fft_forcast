@@ -3,6 +3,19 @@ FFT_FORCAST
 
 you can get forecast, you have to do only input csv file.
 
+日本語説明
+フーリエ変換とLASSO回帰を用いる時系列予測手法を実装したコード．
+この時系列予測手法は，自身の研究で開発したものが元になっている．
+吉澤貴拓, 善甫啓一, and 中林紀彦. "アパレル業界の購買履歴のフーリエ解析による販売予測." 電子情報通信学会論文誌 D 100.4 (2017): 510-519.
+
+.csv fileを入れるだけで予測結果が帰ってくるようなアプリケーションとしてまとめる．
+
+このリポジトリ上では，サンプルデータとして東京電力の電力消費時系列データを用いる．
+> http://www.tepco.co.jp/forecast/html/download-j.html
+
+
+
+
 Project Organization
 ------------
 
