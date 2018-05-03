@@ -22,10 +22,10 @@ Project Organization
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── external       <- POWER DEMAND DATA 2016 ~ 2018
+    │   ├── interim        <- EMPTY
+    │   ├── processed      <- EMPTY
+    │   └── raw            <- EMPTY
     │
     ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
